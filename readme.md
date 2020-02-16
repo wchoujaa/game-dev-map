@@ -18,6 +18,10 @@
 
 ### Stochastic methods
 
+#### Fractals
+
+##### Diamond-square algorithm
+
 ### Linear Congruential Generator
 
 #### Markov Chain
@@ -56,11 +60,16 @@
 ##### Spatial Partition
 #### Event queue
 
-## Mechanics and Thermodynamics
-### entropy
-### wave motion
-### gravitation
-### dynamics of particles and rigid bodies
+## Physics
+### Wave function collapse
+### Mechanics
+#### wave motion
+#### gravitation
+#### dynamics of particles and rigid bodies
+
+### Thermodynamics
+#### entropy
+ 
 
 ## Computational geometry
 ### Bézier curve
@@ -89,6 +98,7 @@
 ### Arrangements
  
 ## Linear Algebra
+ 
 ### L-Systems
 ### collision detection
 
