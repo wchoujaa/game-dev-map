@@ -1,4 +1,4 @@
-# Game developpement areas
+# Topics
 
 ## AI
 
@@ -56,8 +56,15 @@
 ##### Spatial Partition
 #### Event queue
 
-## Computational geometry
+## Mechanics and Thermodynamics
+### entropy
+### wave motion
+### gravitation
+### dynamics of particles and rigid bodies
 
+## Computational geometry
+### Bézier curve
+#### B Spline
 ### Convex hull
 
 ### Polygon partitioning
@@ -100,15 +107,18 @@
 
 ## Game Engine
 
-### Lighting
+### Rendering
 
-#### Skybox
+#### Lighting
 
-### Material
-#### Shaders
-#### Texturing
-##### Bump Map
-##### Normal Map
+##### Skybox
+
+#### Material
+##### Shaders
+##### Texte Mapping
+###### Bump Map
+###### Normal Map
+###### Splat Map
 ### Computer human interaction
 #### Controller
 #### Touch screens
