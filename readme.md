@@ -1,27 +1,34 @@
 # Game developpement areas
-Cellular Automata
+
 ## AI
+
 ### Reinforcement learning
 
 ### Neural networks
 
 ### Genetic Algorithms
+
 ## Numerical analysis
 
 ### Verelt integration
 
 ## Statistics
+
 ### Fractional Brownian motion
+
 ### Stochastic methods
+
 ### Linear Congruential Generator
+
 #### Markov Chain
 
 ## Graph theory
 
 ### A* search path
 
-
 ## Programming
+
+### Cellular Automata
 
 ### Design pattern
 
