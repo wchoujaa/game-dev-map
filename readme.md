@@ -1,6 +1,7 @@
 # Topics
 
 ## AI
+### Influence map
 
 ### Reinforcement learning
 
@@ -31,7 +32,9 @@
 ### A* search path
 
 ## Programming
-
+### Networking
+#### Client Server
+#### TCP UDP socket
 ### Cellular Automata
 
 ### Design pattern
@@ -111,24 +114,29 @@
 #### Grid systems
 #### Quadree and Octree
 #### BSP trees
-#### Portal technique
 
 ### Distance transform
 
 ## Game Engine
 
-### Rendering
 
-#### Lighting
+### Indoor Outdoor Rendering
 
-##### Skybox
+### Portal
+#### Occlusion
+#### Chunked LOD
 
-#### Material
-##### Shaders
-##### Texte Mapping
-###### Bump Map
-###### Normal Map
-###### Splat Map
+### Lighting
+
+#### Skybox
+
+### Material
+#### Shaders
+#### Texture Mapping
+##### Tiling and Decals
+##### Bump Map
+##### Normal Map
+##### Splat Map
 ### Computer human interaction
 #### Controller
 #### Touch screens
