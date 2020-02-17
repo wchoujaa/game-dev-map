@@ -32,6 +32,18 @@
 ### A* search path
 
 ## Programming
+
+### Data structure
+
+#### Space partitionning
+
+##### Grid systems
+##### Quadree and Octree
+##### BSP trees
+
+#### Distance transform
+
+
 ### Networking
 #### Client Server
 #### TCP UDP socket
@@ -64,7 +76,6 @@
 #### Event queue
 
 ## Physics
-### Wave function collapse
 ### Mechanics
 #### wave motion
 #### gravitation
@@ -72,6 +83,7 @@
 
 ### Thermodynamics
 #### entropy
+##### Wave function collapse
  
 
 ## Computational geometry
@@ -107,15 +119,6 @@
 
 ### Marching cube
 
-## Data structure
-
-### Space partitionning
-
-#### Grid systems
-#### Quadree and Octree
-#### BSP trees
-
-### Distance transform
 
 ## Game Engine
 
