@@ -140,6 +140,6 @@
 ##### Bump Map
 ##### Normal Map
 ##### Splat Map
-### Computer human interaction
+### Input
 #### Controller
 #### Touch screens
