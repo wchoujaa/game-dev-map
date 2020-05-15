@@ -33,6 +33,11 @@
 
 ## Programming
 
+### Procedural generation
+
+#### Wave function collapse
+
+
 ### Data structure
 
 #### Space partitionning
@@ -80,12 +85,7 @@
 #### wave motion
 #### gravitation
 #### dynamics of particles and rigid bodies
-
-### Thermodynamics
-#### entropy
-##### Wave function collapse
  
-
 ## Computational geometry
 ### Bézier curve
 #### B Spline
